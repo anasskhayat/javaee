@@ -1,0 +1,16 @@
+testCliente\ApiCriteria.class
+testCliente\PruebaJPQL.class
+services\ServicePersonImpl.class
+dao\PersonaDao.class
+services\ServicePersonRemote.class
+services\ServicePerson.class
+entity\Usuario.class
+testCliente\Transaccion.class
+dao\UsuarioDaoImpl.class
+testJava\ClienteUsuarioService.class
+dao\UsuarioDao.class
+services\UsuarioService.class
+services\UsuarioServiceRemote.class
+entity\Persona.class
+dao\PersonaDaoImpl.class
+services\UsuarioServiceImpl.class
